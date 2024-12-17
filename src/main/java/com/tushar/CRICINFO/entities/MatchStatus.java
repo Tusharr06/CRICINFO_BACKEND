@@ -3,5 +3,5 @@ package com.tushar.CRICINFO.entities;
 
 public enum MatchStatus {
 
-    COMPLETED   ,LIVE
+    COMPLETED,LIVE
 }
